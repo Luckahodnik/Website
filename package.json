@@ -1,0 +1,23 @@
+{
+  "name": "littlelight",
+  "version": "1.0.0",
+  "description": "My personal website for art",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luckahodnik/Website.git"
+  },
+  "author": "Lucija Lučka Hodnik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luckahodnik/Website/issues"
+  },
+  "homepage": "https://github.com/Luckahodnik/Website#readme",
+  "dependencies": {
+    "git": "^0.1.5",
+    "nodejs": "0.0.0"
+  }
+}
